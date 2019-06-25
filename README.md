@@ -1,2 +1,4 @@
 # Coding-Task-on-MongoDB
-The task is to understand better data modelling techniques in MonoDB using python. The scripts inject the csv data taken from NSE website to the MongoDB.  
+There are separate scripts for injecting each day's csv file to database
+The script Retrieve.py retrieves the first 50 records from the database
+Data modelling is yet to be done
